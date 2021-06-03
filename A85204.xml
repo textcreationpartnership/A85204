@@ -1,0 +1,264 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Davids recognition, with a parallel betwixt his and our present soveraigns sufferings and deliverances; set forth in a sermon preached at Grymston in Norfolk, before the right worshipful Captain Roger Spelman and his foot company, there celebrating the 30. aniversary of his Majesites nativity, May 29, 1660. By R. Feltwell, Vicar of East Walton.</title>
+            <author>Feltwell, Robert, 1610 or 11-1669.</author>
+         </titleStmt>
+         <extent>Approx. 31KB of XML-encoded text transcribed from 12 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A85204</idno><idno type="EEBO-CITATION">99867878</idno>
+  <idno type="VID">168910</idno>
+  <idno type="EEBO-PROQUEST">2240925251</idno>
+  
+            <idno type="STC">Wing F666</idno>
+            <idno type="STC">Thomason E1033_7</idno>
+            <idno type="STC">ESTC R208963</idno>
+            <idno type="PROQUEST">99867878</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99867878e"/>
+            <note>(EEBO-TCP ; phase 2, no. A85204)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 168910)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 153:E1033[7])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Davids recognition, with a parallel betwixt his and our present soveraigns sufferings and deliverances; set forth in a sermon preached at Grymston in Norfolk, before the right worshipful Captain Roger Spelman and his foot company, there celebrating the 30. aniversary of his Majesites nativity, May 29, 1660. By R. Feltwell, Vicar of East Walton.</title>
+                  <author>Feltwell, Robert, 1610 or 11-1669.</author>
+               </titleStmt>
+               <extent>[4], 18 p.   </extent>
+               <publicationStmt>
+                  <publisher>printed for the author, and are to be sold by Thomas Parkhurst, at the Three Crowns, in the lower end of Cheapside,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1660.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="personal_name">Charles --  II, --  King of England, 1630-1685 --  Early works to 1800.</term>
+               <term type="topical_term">Sermons, English --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-11 </date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-06 </date>
+            <label>Colm MacCrossan </label>Sampled and proofread </change>
+         <change>
+            <date>2014-06 </date>
+            <label>Colm MacCrossan</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:168910:1"/>
+            <p>Davids Recognition, WITH A Parallel betwixt his and our present Soveraigns Sufferings and Deliverances; Set forth in a SERMON PREACHED At <hi>Grymston</hi> in <hi>Norfolk,</hi> Before the Right Worshipful Captain <hi>Roger Spelman</hi> and his Foot Company, there celebrating the 30. <hi>Aniversary</hi> of his Majesties Nativity, <hi>May</hi> 29. 1660. By <hi>R. FELTWELL,</hi> Vicar of <hi>East Walton.</hi>
+            </p>
+            <q>Domine in salute tua laetabitur Rex.
+<bibl>Ps. 21. 1.</bibl>
+            </q>
+            <p>
+               <hi>LONDON,</hi> Printed for the Author, and are to be sold by <hi>Thomas Parkhurst,</hi> at the Three Crowns, in the lower end of <hi>Cheapside.</hi> 1660.</p>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:168910:2"/>
+            <pb facs="tcp:168910:2"/>
+            <head>To the right worshipful <hi>Sir</hi> EDWARD BARKHAM, <hi>Knig<gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> and Baronet, his ever honored Patron, the best of felicitics here and hereafter.</hi>
+            </head>
+            <opener>
+               <salute>SIR,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">I</seg> Should be stupendiously in<g ref="char:EOLhyphen"/>grateful, should I not acknow<g ref="char:EOLhyphen"/>ledge you by whose bounty I enjoy my livelihood, and consequently my life; by whose goodness (even when it was Treason to be, or own a loy<g ref="char:EOLhyphen"/>al Subject) I was taken as a brand out of the flames of persecution, and set in a secure place. I present you with this Re<g ref="char:EOLhyphen"/>cognition, as an evidence of my con<g ref="char:EOLhyphen"/>stant and unfeigned zeal to serve you. I desire that you would receive this as the First-fruits of his labors, who is ambi<g ref="char:EOLhyphen"/>tious to subscribe himself,</p>
+            <closer>
+               <salute>SIR,</salute>
+               <signed>Your Servant in all things, especially in the work of the Lord, R. FELTWELL.</signed>
+               <dateline>
+                  <date>Sept, 7. 1660.</date>
+               </dateline>
+            </closer>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:168910:3"/>
+            <head>TO His much honored Col. <hi>Roger VVhitley,</hi> Fulness of Grace and good things in this life, and the overflowings of Glory in the life to come.</head>
+            <opener>
+               <salute>SIR,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">N</seg>Ext after my religion to God I have always esteemed my Allegiance towards my So<g ref="char:EOLhyphen"/>veraign, as the Apple of mine own eye, in testimony whereof I present this Panegyrick (preached at our gracious Soveraign his return to his Kingdoms) to those eyes which were wit<g ref="char:EOLhyphen"/>nesses how far I adventured in the cause of his Majesties Father, even when the <hi>Ignominious</hi> tree was fixed, and Royal the grave was ready for me.</p>
+            <p>Accept I beseech you of this handful of Goats-hair, which is as cordially dedicated to the Altar of Loyalty as any others gold, silver, blew, silk or purple what<g ref="char:EOLhyphen"/>soever.</p>
+            <closer>
+               <salute>SIR,</salute>
+               <signed>Your most affectionate Servant, R. FELTWEL.</signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="sermon">
+            <pb n="1" facs="tcp:168910:3"/>
+            <head>Davids Recognition, WITH A Parallel between his and our present Soveraigns Sufferings and Deliverances,</head>
+            <epigraph>
+               <q>
+                  <bibl>PSAL. 18. 50.</bibl> Great deliverance giveth he unto his King, and sheweth mercy unto his anointed, to David and to his seed for evermore.</q>
+            </epigraph>
+            <p>
+               <seg rend="decorInit">T</seg>He title of this Psalm speaks the Author and the occasion, namely, tis a sacred solemn <hi>Panegyrick</hi> uttered by that sweet singer of <hi>Israel,</hi> the Prophet <hi>David,</hi> when Almighty God had given him settlement instead of banishment, beauty for ashes, and a crown of gold for a crown of thorns: So you see in the Prescript, <hi>To the cheif Musician, a Psalm of</hi> David <hi>the servant of the Lord, who spake unto the
+<pb n="2" facs="tcp:168910:4"/> Lord the words of this song, in the day that the Lord delivered him from the hand of all his enemies, and from the hand of</hi> Saul.</p>
+            <p>The words are the sum of a royal Charter grant<g ref="char:EOLhyphen"/>ed by the King of Kings, to his King <hi>David;</hi> and readily divide themselves into</p>
+            <p n="1">1. A <hi>Preposition,</hi> He giveth great deliverance, and sheweth mercy.</p>
+            <p n="2">2. An <hi>Exposition,</hi> unto his King, and unto his Annoin<g ref="char:EOLhyphen"/>ted, <hi>To David and to his seed for evermore.</hi> Or thus, here is,</p>
+            <p n="1">1. <hi>Donation,</hi> Great deliverance and mercy.</p>
+            <p n="2">2. <hi>Donor,</hi> God, intimated in the word <hi>He.</hi>
+            </p>
+            <p n="3">3. <hi>Donee,</hi> His King, his Anointed, <hi>David and his seed for evermore.</hi>
+            </p>
+            <p>In the <hi>Donation</hi> we meet with, 1. <hi>Quid. 2 Quan<g ref="char:EOLhyphen"/>tum. 3. Quamdiu.</hi>
+            </p>
+            <p n="1">1. <hi>Quid,</hi> In respect of the <hi>quality,</hi> Deliverance, Mercy.</p>
+            <p n="2">2. <hi>Quantum,</hi> in respect of the latitude, Great deli<g ref="char:EOLhyphen"/>verances, great Mercies.</p>
+            <p n="3">3. <hi>Qamdiu,</hi> In regard of the continuance, <hi>for ever<g ref="char:EOLhyphen"/>more.</hi>
+            </p>
+            <p>First, <hi>The Donation,</hi>
+            </p>
+            <p>Deliverances relate to precedent pressures, mer<g ref="char:EOLhyphen"/>cies may be referred to present favors; <hi>David</hi> had born the yoke of affliction in his youth, and <hi>Da<g ref="char:EOLhyphen"/>vid</hi> now wears the Scepter of Royalty at his full age.</p>
+            <p>God humbles those whom he means to exalt, and many times keeps them lowest for whom he hath reserved the highest dignities and advancements:
+<pb n="3" facs="tcp:168910:4"/>
+               <hi>David</hi> a man after Gods own heart, and yet encom<g ref="char:EOLhyphen"/>past and encumbred with dangers and afflictions; whence here he acknowledgeth diliverance.</p>
+            <p>The best of Gods Saints have affliction for their portion in this life, and the purest mettal oftenest passeth the furnace, and fineing pot; <hi>Christianus cru<g ref="char:EOLhyphen"/>cianus,</hi> he that will follow Christ must do it with the cross upon his own shoulder, 2 <hi>Tim. 3. 12. All that will live godly in Christ Jesus shall suffer persecution.</hi>
+            </p>
+            <p>It is a general Axiome which St. <hi>Augustine</hi> sets down, <hi>Nullus servus Dei sine persecutione.</hi> It is re<g ref="char:EOLhyphen"/>corded of the Eagle, that she makes proof of the legitimation of her young ones, by carrying them aloft towards the scorching beams of the sun, which if they endure, (she fosters them, if otherwise she ex<g ref="char:EOLhyphen"/>poses them to ruine by rejecting them: God deals so with his servants, <hi>Heb. 12. 7, 8. If ye endure chastening, God deals with you as with sons; for what son is he whom the father chasteneth not? But if you be without chastisement, whereof all are partakers, then are ye bastards and not sons.</hi>
+            </p>
+            <p>Nor doth God permit afflictions to his dearest servants, nor they groan under the rod of their op<g ref="char:EOLhyphen"/>prossors without great reason. As</p>
+            <p n="1">1. The best of Gods Saints have their sins, and therefore it is just with God to make them sufferers. <hi>Death</hi> (that is daily calamity) <hi>passeth upon all men, for that all men have sinned: Quotidie crescit poena, quia quotidie crescit culpa.</hi> Aug. Ser. de Temp. Dom. 7. post. Trin. Ser. 3.</p>
+            <p>The Father indeed speaks this, as describing the cursed condition of the rebellious and Idolatrous
+<pb n="4" facs="tcp:168910:5"/>
+               <hi>Samaritans,</hi> whose sufferings increased their sins, and their sins their sufferings; yet it may be true too in the deerest servants of God, whose unwilling rebellions proceeding from the will and war of the members a<g ref="char:EOLhyphen"/>gainst the minde leads them captive to the power of sin and death, until a through heart-change is wrought upon them by the grace of God co-operating with, and in affliction. Again</p>
+            <p n="2">2. The dearest Saints of God are afflicted that they may be kept, contained and continued in their due obe<g ref="char:EOLhyphen"/>dience; <hi>Prosunt nonnunquam supplicia &amp; tribulationum sarcinis animi sepius corriguntur.</hi> Afflictions are pro<g ref="char:EOLhyphen"/>fitable; and the loads of tribulation many times cure the looseness of the mind; It was our <hi>Davids</hi> case, Psal. 119. vers. 67. <hi>Before I was afflicted I went astray, but now have I kept thy word.</hi> The Ox that is intend<g ref="char:EOLhyphen"/>ed for service, is used to the yoke, that for flaughter, is suffered to wanton in the pasture; the child whom the father intends to make his Heir, is kept under Tutors and Governors, he that is grown past hope is left to himself: God deals so with the Sons of men, Heb. 12. 6. <hi>Whom the Lord loveth he chasteneth, and scourgeth every son whom he receiveth.</hi> It might have been our <hi>Davids</hi> case, the height of his met<g ref="char:EOLhyphen"/>tal and the hopes of his advancement to the Crown of <hi>Israel</hi> might have drawn him to some juvenile fol<g ref="char:EOLhyphen"/>lies, which he was not guilty of, and yet he had enow, witness his petition, Psal. 25. 7. <hi>Remember not the sins of my youth, nor my transgressions: ac<g ref="char:EOLhyphen"/>cording to thy mercy remember thou me, for thy goodness sake, O Lord. It is good for a man that he bear the yoke in his youth,</hi> Lam. 3. 27. Again,</p>
+            <pb n="5" facs="tcp:168910:5"/>
+            <p n="3">3. The dearest Saints of God are afflicted to keep them humble, and allay the conceit and temptations of what they have in possession, and hope for in reversion. The world affects riches, pleasures, honors, the love of riches produceth e<g ref="char:EOLhyphen"/>vil; the thirst after pleasure bringeth forth filthy, and the desire of honor is the mother of vain and ambitious thoughts, delights, juglings: Tribulation confines the thoughts, exercises the mind, and chains up inordinate and ambitious affections; that great Apostle unto whom God afforded a glimpse of that glory, which shall be revealed on us here<g ref="char:EOLhyphen"/>after, and being caught up into Paradice, heard unspeakable words, such as is not lawful (the o<g ref="char:EOLhyphen"/>riginal hath it, <gap reason="foreign" resp="#oxf">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, <hi>not possible</hi>) for a man to ut<g ref="char:EOLhyphen"/>ter; <hi>He had given unto him a thorn in the flesh, the messenger of Satan to buffet him</hi> (and that to this end) <hi>lest he should have been exalted above mea<g ref="char:EOLhyphen"/>sure through the abundance of those revelations which God had afforded him. Si cessarit Deus, &amp; non miscerit amaritudines faelicitatibus seculi: oblivisce<g ref="char:EOLhyphen"/>remer eum.</hi> Should God sit still and not infuse some bitternesses into that mundane felicity which we enjoy, we should be ready to forget him, saith St. <hi>Augustine,</hi> but when the waves of affliction beat against the bark of our flesh; faith which <hi>Jonas</hi>-like was asleep, is awakened and the soul brought to his knees to acknowledge its emptiness, with<g ref="char:EOLhyphen"/>out his supply, whose fulness filleth all things. Again,</p>
+            <p n="4">4. The Saints of God are exercised in the Shool of affliction, that their constancy and pa<g ref="char:EOLhyphen"/>tience
+<pb n="6" facs="tcp:168910:6"/> may be the more remarkable and resplen<g ref="char:EOLhyphen"/>dent, <hi>Prov. 17. 3. The fining pot is for silver, and the furnace for gold; but the Lord trieth the heart.</hi> That is, as the Royal Preacher expounds him<g ref="char:EOLhyphen"/>self; <hi>Though the righteous be punished in the sight of men, yet is their hope full of immortality: And having been a little chastised, they shall be greatly rewarded: For God proved them, and found them worthy for himself. As gold in the furnace hath he tried them, and received them as a burnt offering. And in the time of their visitation they shall shine and run too and fro, like sparks among the stubble,</hi> Wisdom 3. 4, 5, 6, 7.</p>
+            <p>
+               <hi>Aurifcx donec aurum bene purgatum viderit, de conflatorio non extrahit, sic Deus non abducit hanc nubem donec nos penitus emendaverit.</hi> Chrysost. The Goldsmith takes not the precious mettal out of the <hi>Chrusible,</hi> till he seeth it perfectly re<g ref="char:EOLhyphen"/>fined.</p>
+            <p>So God removes not this cloud (of affliction) untill he hath throughly purged us and fitted us for his service. God suffered men to ride over <hi>Davids</hi> head, he carried him through fire and water, before he would bring him to a wealthy place. Again,</p>
+            <p n="5">5. Gods Saints are afflicted that they may be made conformable to the image of Christ, that suffering with him, they may in his due time come to reign with him, 2 <hi>Tim. 2. 12. Per va<g ref="char:EOLhyphen"/>rios casus, per tot discrimina rerum, Tendimus in Canaan. Tota vita Christi crux fuit &amp; Martyrium:</hi> From the Manger to the cross, from the day
+<pb n="7" facs="tcp:168910:6"/> when his mother wrapped him in swadling cloaths, until that whereon the Souldiers parted their garments, and cast lots for his vestment, nothing but affliction and persecution; And yet <hi>for this cause God highly exalted him, and gave him a name above every name,</hi> Phil. 2. 8. So the Servants of God through many tribulations attain felicity; <hi>And our light afflictions, which are but for a moment, work for us a far more exceeding and eternal weight of glory,</hi> 2 Cor. 4. vers. 17.</p>
+            <p>Secondly, The next thing to be considered of is, the <hi>Quantity,</hi> as of Gods deliverances and mercies, so of the Saints sufferings and miseries, <hi>Great deliverance giveth he, &amp;c.</hi>
+            </p>
+            <p>The men of God are men of sorrows, and those not a few, but many; not small, but great, so <hi>Psalm</hi> 34. vers. 19. <hi>Many are the afflicti<g ref="char:EOLhyphen"/>ons of the righteous,</hi> &amp;c. According to our last Translators; <hi>Great are the troubles of the righ<g ref="char:EOLhyphen"/>teous,</hi> after our vulgar version; Many for mul<g ref="char:EOLhyphen"/>titude, great for magnitude; In respect of their multitude, comparable to the waves of the Sea, vexed with a boisterous wind, one billow tum<g ref="char:EOLhyphen"/>bling upon the neck of another, or like <hi>Jobs</hi> Messengers, one hath no sooner ended his sad relation, but another succeeds with a more la<g ref="char:EOLhyphen"/>mentable story. In respect of their Magnitude, like the Sons of <hi>Anaak,</hi> these assailants are Gi<g ref="char:EOLhyphen"/>ants, against Defendants like Grashoppers; thus our <hi>Davids</hi> incumbrances were multiplied as the
+<pb n="8" facs="tcp:168910:7"/> sand on the sea-shore, and every one of them like his grand Enemy <hi>Saul,</hi> higher by the head and shoulders then those of the people: But here is our comfort, the Saints afflictions are but momentany, <hi>John 16. 29. Paululum &amp; non videbi<g ref="char:EOLhyphen"/>tis me, &amp; iterum paululum &amp; videbitis me; A little while and ye shall not see me, and again, a little while and ye shall see me.</hi> The healing face of God, the light of his countenance, may vail it self under a seeming cloud of affliction, or withdraw it self like the sun in a conceived de<g ref="char:EOLhyphen"/>reliction, <hi>Psal. 30. vers. 5. Weeping may endure for a night, but joy commeth in the morning. For a small moment have I forsaken thee, but with great mercies will I gather thee. In a little wrath I hid my face from thee for a moment, but with ever<g ref="char:EOLhyphen"/>lasting kindness will I have mercy on thee, saith the Lord our Redeemer,</hi> Isaiah 54. vers. 7, 8. While he is scourging he sheweth mercy, and when he leadeth down to hell he bringeth up again; chaste <hi>Joseph,</hi> patient <hi>Job,</hi> holy <hi>David,</hi> yea all the Saints of God sufficiently evidence this truth, That God in great tribulations is ready to afford great deliverances, <hi>&amp;c,</hi> Again,</p>
+            <p>Gods assistance is more remarkably evident in most intricate and inextricable dangers, pre<g ref="char:EOLhyphen"/>sures, troubles, <hi>Jehovah-jireth, Deus providebit,</hi> is an old true, and to those that trust in him a perpetually infallible proverb. When the pro<g ref="char:EOLhyphen"/>mised seed, <hi>Abrahams</hi> beloved <hi>Isaac</hi> was, (as his Father thought,) by the All-commanding Poten<g ref="char:EOLhyphen"/>tate designed for slaughter; even then when
+<pb n="9" facs="tcp:168910:7"/> the Altar was built, the wood laid in order, and the supposed sacrifice bound and laid on the Altar upon the wood; when the knife is drawn and the indulgent Father is stretching forth his hand to cut the thread of his beloved sons life, then, even then doth the Lord appear in the mount, sends an Angel to reprieve <hi>Isaac,</hi> and fastens a ram in a thicket to be offered in<g ref="char:EOLhyphen"/>stead of him for a burnt offering; It was so with our <hi>David,</hi> when <hi>Israels</hi> Territories were too strait, or rather too hot for him; when he had scarce any hopes ever to see so much as his Fa<g ref="char:EOLhyphen"/>thers <hi>Bethlehem;</hi> behold a sudden revolution, his persecutors are destroyed, and all <hi>Israel</hi> elect, acknowledge and send for him as their Sove<g ref="char:EOLhyphen"/>raign. <hi>Great deliverances.</hi>
+            </p>
+            <p>Thirdly, And now we come to the <hi>Quandiu,</hi> the continuance of Gods deliverance and mercy, <hi>To his King, to David and his anointed, and to his seed,</hi> and that is, <hi>for evermore.</hi>
+            </p>
+            <p>Gods favours you see are not confined to the persons onely of his servants, but his blessings are entaild to posterity, he that in his Justice pro<g ref="char:EOLhyphen"/>ceeds no farther then the third and fourth genera<g ref="char:EOLhyphen"/>tion, of them that hate him, in his mercy extends his loving kindness unto thousands in them that love him and keep his commandements; thus God promised to <hi>David, Psalm. 89, 29. His seed will I make to endure for ever, and his throne as the days of Heaven. and</hi> verse, 36. <hi>His seed shall endure for<g ref="char:EOLhyphen"/>ever and his Throne as the Sun before me, it shall be
+<pb n="10" facs="tcp:168910:8"/> established for ever as the Moon, and as a faithful wit<g ref="char:EOLhyphen"/>ness in Heaven.</hi> vers. 37. And though Ten Tribes were snatched from <hi>Rehoboam</hi> and the other Two from <hi>Zedekiah,</hi> as the just punishment of those Princes, and their peoples miscarriages, yet God performes his promise still, and even then when the <hi>Scepter was departed from Judah,</hi> and a Lawgiver from between his feet, when <hi>Herod</hi> an <hi>Idumean</hi> had Usurped the Royal Seat and <hi>Scepter</hi> of <hi>Judah</hi> and <hi>Jerusalem,</hi> even then comes <hi>Shilo, Je<g ref="char:EOLhyphen"/>sus Christ,</hi> the Son of <hi>David,</hi> and of his King<g ref="char:EOLhyphen"/>dome there is, there can, there shall be no end, as God hath promised he hath performed his mercies to his King, to <hi>David</hi> his Anointed are perpetual not personal; <hi>Great deliverance,</hi> &amp;c.</p>
+            <div type="part">
+               <head>The Second General, the <hi>Donor,</hi> in the word, <hi>HE.</hi>
+               </head>
+               <p>Would you know to whom this Relative <hi>He, is to be referred,</hi> look back to the first, second, and third, <hi>verses,</hi> and there you have <hi>David</hi> naming him. <hi>I will love thee O Lord my strength, the Lord is my Rock, and my Fortress, and my Deliverer, my God, my strength, in whom I will trust, my Buckler, and the Horn of my Salvation, and my high Tower, I will call upon the Lord, who is worthy to be praised, so shall I be saved from mine Enemies.</hi> God onely is able, God onely is willing, to work deliverances for to shew mercy to his King, his anointed <hi>David</hi> and his seed, &amp;c. He found by experience that <hi>it is better to trust in the Lord then to put any confidence in
+<pb n="11" facs="tcp:168910:8"/> man, it is better to trust in the Lord then to put any confidence in Princes. Psal.</hi> 118. 8, 9. The sons of men (though never so mighty) if they would can<g ref="char:EOLhyphen"/>not work deliverances for the Lords anointed; the Sons of men are so perfidious, that though they could, perhaps they would not show loving kind<g ref="char:EOLhyphen"/>ness unto distressed Kings, to <hi>David</hi> and to his seed, <hi>Achish</hi> King of <hi>Gath</hi> indeed raised a War against <hi>Saul, Davids</hi> grand Enemy, but tis proba<g ref="char:EOLhyphen"/>ble that his own ends, not that afflicted Princes in<g ref="char:EOLhyphen"/>terest were the main promovers of that designe, it was he that is the Father of the Fatherless, and the Husband of the widow, even he by whom Kings reign and Princes execute Justice, even he that raiseth the poor out of the dust, and lifteth the needy out of the dunghil, that he may set him with PRINCES, &amp;c. That delivered <hi>David</hi> from his strongest Enemy, that subdued those un<g ref="char:EOLhyphen"/>der him, that rose up against him, that gave him the necks of his Enemies that he might destroy them that hated him, that lifted him up above those that rose up against him. <hi>vers.</hi> 48. That gave him great deliverances, mercies; <hi>great deliveran<g ref="char:EOLhyphen"/>ces giveth,</hi> &amp;c.</p>
+            </div>
+            <div type="part">
+               <head>The third General, the <hi>Donee, To his King, to his Anointed, to David,</hi> &amp;c.</head>
+               <p>All Gods Saints are his Jewels, he sets them as <hi>a seal</hi> upon his heart, as <hi>a seal</hi> upon his arme, as a signet upon his right hand, their love makes an im<g ref="char:EOLhyphen"/>pression upon him, and they are always in his care:
+<pb n="12" facs="tcp:168910:9"/>
+                  <hi>Isaiah 49. vers. 15. 16. Can a woman forget her sucking child that she should not have compassion in the Son of her Womb, yea they may forget, but I will not forget thee; behold I have engraven thee upon the palms of my hands, thy walls are continually be<g ref="char:EOLhyphen"/>fore me.</hi>
+               </p>
+               <p>But pious Princes are Gods pictures, his impres<g ref="char:EOLhyphen"/>sion is stampt upon them, and they are called by his name, <hi>thou shalt not revile the Gods, Exo. 22. vers.</hi> 28. That is, as it is (<hi>Exegetically expounded</hi>) in the words following, <hi>not curse the Ruler of thy people. Dixi dii estis, I have said ye are Gods and all of you are Children of the most high,</hi> saith our <hi>David Psal.</hi> 82. 6. Their persons are sacred and they that resist their just Authority shall receive to themselves <gap reason="foreign" resp="#oxf">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>, damnation. <hi>Rom. 13. vers.</hi> 2. Let Kings then consider whose Vicegerents they are, and above all things seek his honour and glory that sets them up, and can at pleasure <hi>dis<g ref="char:EOLhyphen"/>inthrone</hi> them; and let Subjects knowing who it is that advances, impowers, and protects their Soveraigns, faithfully serve, honour and humbly obey them, in Christ and for Christ, ac<g ref="char:EOLhyphen"/>cording to Gods blessed Word and Ordinance, otherwise God will avenge his Kings, and pre<g ref="char:EOLhyphen"/>serve the footsteps of his Anointed: If the tu<g ref="char:EOLhyphen"/>multuous people talk of breaking their bands in sunder, and casting away their cords from them, <hi>He that sitteth in heaven shall laugh them to scorn, the Lord shall have them in derision, vex them in his sore displeasure;</hi> and in spight of all rebellious designs and contrivances, maugre the
+<pb n="13" facs="tcp:168910:9"/> power and plots of <hi>Saul</hi> and his Complices, the <hi>Lord will set</hi> David <hi>his anointed upon his holy hill of</hi> Sion, <hi>great deliverances giveth be unto his King, and sheweth mercy unto his anointed, to</hi> David, <hi>and to his seed for evermore.</hi>
+               </p>
+            </div>
+            <div type="part">
+               <head>And now let us leave <hi>Palestine</hi> and re<g ref="char:EOLhyphen"/>turn to Great <hi>Britain,</hi> and seek if we can find a Parallel for our <hi>David,</hi> and <hi>I</hi> hope that without Vanity, Affectation, or Flattery, King <hi>Charls</hi> (whose happy Nativity and return to his Kingdomes we this day celebrate) will if not equalize yet resemble <hi>David</hi> in my Text. And First.</head>
+               <p>First, In respect of their extraction, <hi>David</hi> de<g ref="char:EOLhyphen"/>scended from <hi>Abraham,</hi> to whose seed the Land of <hi>Canaan</hi> was promised <hi>Gen.</hi> 15. 7. from the Tribe of <hi>Juda,</hi> to whom the Scepter Royal was entaild, <hi>Gen.</hi> 49. 10.</p>
+               <p>
+                  <hi>Charls</hi> our gratious Soveragine by a long series of Ancestors from <hi>Malcolmn Conmer</hi> King of <hi>Scots,</hi> and a Sister of <hi>Edgar Athelin</hi> in right K. of <hi>England,</hi>
+                  <pb n="14" facs="tcp:168910:10"/> by the great Grandmothers Mother from <hi>Henry</hi> the seaventh that united the houses of <hi>York</hi> and <hi>Lan<g ref="char:EOLhyphen"/>caster;</hi> by the Grandfather from <hi>James</hi> the wise, who united the Kingdomes of <hi>England</hi> and <hi>Scot<g ref="char:EOLhyphen"/>land;</hi> by the Father, from <hi>Charls</hi> the good and just, who willingly sacrificed his life, to preserve his people liberties, such was our misery not long since, that we might have seen folly set in great dignity, and the rich set in low place; Servants upon horses, and Princes walking as Servants up<g ref="char:EOLhyphen"/>on the Earth <hi>Eccles. 10. 6, 7. It is now our happiness that our King is the son of Nobles, and our Princes eat in due season for strength, and not for drunken<g ref="char:EOLhyphen"/>ness, v.</hi> 17.</p>
+               <p>Secondly, <hi>David</hi> was anointed in his Minority, 1 <hi>Sam.</hi> 16. 11. Our Gratious Soveragine by that execrable Murther of that glorious Martyr his Ma<g ref="char:EOLhyphen"/>jesties Royal Father was <hi>inaugurated</hi> to his three Kingdoms (for <hi>Rex anglorum nunquam moritur</hi>) be<g ref="char:EOLhyphen"/>fore he attained to 19. years of Age.</p>
+               <p>Thirdly, <hi>David</hi> was persecuted by <hi>Saul</hi> and as he expresses himself, 1 <hi>Sam.</hi> 26. 20. Was by that Tyrant sought for as a Flea, hunted as a Partridge in the mountaines. And was not our Gratious Sove<g ref="char:EOLhyphen"/>ragin in that sad condition, that all places were searcht to apprehend him, all Ports guarded to prevent his escape; so that in his three large King<g ref="char:EOLhyphen"/>domes the <hi>Foxes</hi> had holes, and the <hi>Fowls</hi> of the Ayre nests, but our Soveragine had not where in safety to lay his head?</p>
+               <pb n="15" facs="tcp:168910:10"/>
+               <p>Fourthly, <hi>David</hi> fleeing from <hi>Sauls</hi> fury com<g ref="char:EOLhyphen"/>meth to <hi>Abimelech</hi> at <hi>Nod, 1 Sam.</hi> 21. 1. Who re<g ref="char:EOLhyphen"/>lieves and armes him, for which himself and four<g ref="char:EOLhyphen"/>score and four persons that wear a Linnen <hi>Ephod</hi> were slain by <hi>Doeg</hi> the <hi>Edomite.</hi> Chap. 22 <hi>vers.</hi> 18. And what one that ever waited at the Alter, during the time of the Royal Fathers troubles, and his Son our Soveragine his exile, durst attest his just rights, and unjust sufferings; but was either Murthered, Sequestred, Banished, Imprisoned, or disgraced.</p>
+               <p>Fifthly, <hi>David</hi> was neer surprisal at <hi>Keilah</hi> the 1 <hi>Sam.</hi> 23. Our gratious Soveragine, though those Loyal <hi>Citizens</hi> were more faithful to him then the <hi>Keilits</hi> would have been to <hi>David</hi> very miracu<g ref="char:EOLhyphen"/>lously, escaped after the defeat at <hi>Worcester.</hi>
+               </p>
+               <p>Sixthly, <hi>David</hi> indeavoring to preserve his life that <hi>Saul</hi> so eagarly sought for, betakes himself to a Wood in the Wilderness, of <hi>Ziph. 1 Sam.</hi> 23. 15. Our Soveragine conceales himself in one neer <hi>Woolverhampton.</hi>
+               </p>
+               <p>Seventhly, <hi>David</hi> makes a Cave in <hi>En-gedi</hi> his Castle. 1 <hi>Sam.</hi> 24. 3. His Sacred Majesty uses a hollow Oak instead of a Pallace.</p>
+               <p>Eighthly, <hi>David</hi> notwithstanding his and his Souldiers civilities to <hi>Nabals</hi> Servants is by him<g ref="char:EOLhyphen"/>self unkindly denied a small courtesie, <hi>and (with a shall I take my bread, my water, and my flesh that
+<pb n="17" facs="tcp:168910:11"/> I have killed for my shearers, and give it unto men whom I know not whence they be, 1 Sam.</hi> 25. 11.) Cleanly discarded, perhaps the Churl feared <hi>Sauls</hi> displeasure; Our Soveragin was by a Politick Cardinal Articled out of <hi>France,</hi> meerly to gain a peace with an Usurping Rebel.</p>
+               <p>Ninthly, <hi>David</hi> in his distress is releived by <hi>Abi<g ref="char:EOLhyphen"/>gail. 1 Sam.</hi> 25. 16. Our Gratious Soveragine had the happiness to have the Conduct of a Loyal pru<g ref="char:EOLhyphen"/>dent Valiant and fortunate <hi>Heroina</hi> to <hi>continue him</hi> safe a while here and at length to get him away beyond the Seas, and his Enemies (not ma<g ref="char:EOLhyphen"/>lice but) power.</p>
+               <p>Tenthly, <hi>David 1 Sam.</hi> 28. 2. Escapes to <hi>Achish</hi> King of <hi>Gath,</hi> and there though among a people of a different Religion, yet forsakes not the God of his fathers: Our Soveragin hath expressed that constancy to the protestant Religion, in the profes<g ref="char:EOLhyphen"/>sion and practice of it, that to use his Majesties own words, <hi>Neither the unkindness of those of the same faith towards him, nor the civilities and obligations from those of a contrary profession could in the least de<g ref="char:EOLhyphen"/>gree startle his Majestie, or make him swarve from it.</hi>
+               </p>
+               <p>Eleventhly, <hi>Saul,</hi> when Gods time of giving <hi>deli<g ref="char:EOLhyphen"/>verance unto his King, and shewing mercy unto his Anointed, to David, &amp;c.</hi> was come, in despair executes Gods vengeance upon himself, and be<g ref="char:EOLhyphen"/>comes his own murderer. The late Usurper when Gods due time was come for our Soveraign to obtain his just Rights and Interests, returns (tis
+<pb n="16" facs="tcp:168910:11"/> to be feared, for according to King <hi>James</hi> his opinion, <hi>Rebels</hi> and <hi>Traytors,</hi> if prospering, sel<g ref="char:EOLhyphen"/>dom or never repent) as <hi>Judas</hi> did, to his own place.</p>
+               <p>Twelfthly, <hi>Abner</hi> discontented against <hi>Ishbosheth</hi> deserts him, and goes to <hi>David, 2 Sam.</hi> 3. 8, 12. Though no doubt his distaste of the Civil War which he knew would be bitterness in the latter end, ch. 2. 26. was the main motive that carried on the design. His renowned Excellency abhorring the wickedness of those that took up Religion to palliate their Rebellion, and withal laying the sad condition of King and People seriously to heart, by Gods providence and assistance found out and prospered in such ways as have restored his Maje<g ref="char:EOLhyphen"/>sty to his People, the People to hopes of their pri<g ref="char:EOLhyphen"/>stine happiness.</p>
+               <p>Thirteenthly, <hi>David, 2 Sam.</hi> 3. 15. by executing <hi>Baanah</hi> and <hi>Rechab</hi> for murthering their Master <hi>Ishbosheth,</hi> and in hopes of preferment for their villany, presenting the King with his head, made it appear, that it was not his enemies ruine, but his own Right that he aimed at: Thus our gra<g ref="char:EOLhyphen"/>cious Soveraign, by his late Letters and Decla<g ref="char:EOLhyphen"/>ration hath evidenced that it is not his enemies ruine but reformation, not confusion but conver<g ref="char:EOLhyphen"/>sion, not lives but hearts, that he desires.</p>
+               <p>Fourteenthly, <hi>David</hi> aged thirty years is by all <hi>Israel</hi> made King in <hi>Hebron.</hi> This present day
+<pb n="18" facs="tcp:168910:12"/> is the Thirtieth year since the birth of his sacred Majesty; the people, as then for <hi>David,</hi> now u<g ref="char:EOLhyphen"/>nanimously appearing and joyfully receiving our <hi>gracious Soveraign into his Royal City.</hi>
+               </p>
+               <p>Fifteenthly, <hi>David</hi> aged seventy years dieth, and leaveth <hi>Solomon</hi> to succeed: And may the days of his Majesty be lengthned, and his hands strenthned against his Adversaries; May he be beloved, honored, reverenced and obeyed by his Subjects, dreaded by his enemies, and having gloriously served in his generation, may he be ga<g ref="char:EOLhyphen"/>thered to his Fathers in peace, may he leave a Race of <hi>Solomons, Asa's, Hezekias, Josias,</hi> (their follies and misfortunes excepted.) <hi>Let not any weapon formed against him or his prosper: Let his ene<g ref="char:EOLhyphen"/>mies perish like Jabin and Sisera, and those that rise up against him become as</hi> Corah, Dathan <hi>and</hi> Abiram; <hi>But upon his head, and the heads of his posterity, let these Crowns flourish, till the Son of David, the Son of Righteousness returns to judge<g ref="char:EOLhyphen"/>ment, and let all Loyal Subjects say</hi> Amen.</p>
+            </div>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
